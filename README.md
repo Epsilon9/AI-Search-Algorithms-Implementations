@@ -1,6 +1,6 @@
 ## AI Search Algorithms Implementations  
   
-In Naboo Planet the R2-D2 droid is serving her Queen Amidala and has received some important documents containing secrets of the castle of Dark Lord Darth Vadar located on the the volcanic planet of Mustafar.
+In Naboo Planet the R2-D2 droid is serving her Queen Amidala and has received some important documents containing secrets of the castle of Dark Lord Darth Vadar located on the the volcanic planet of Mustafar. [George Lucas is Awesome].
   
 As soon as Dark Lord finds this out, he sends his army after R2D2 to recover the documents from him.  Fearing the Darth's Army, R2D2 hides in a Cave. While entering the cave R2D2 has found a map of the cave and It knows that it is at grid location 0 and needs to reach grid 61 to go out of the Cave.  
   
